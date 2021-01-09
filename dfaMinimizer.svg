@@ -16,6 +16,7 @@
           border-radius: 6px;
           text-align: -webkit-match-parent;
           flex-direction: column;
+          width: 50%;
         }
         .card-title {
           color: #2f80ed;
