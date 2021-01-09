@@ -5,6 +5,7 @@
       <style>
         * {
           box-sizing: border-box;
+          background-color: transparent;
         }
 				.container {
           padding: 16px !important;
