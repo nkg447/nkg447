@@ -7,7 +7,8 @@
           border: 1px solid #e1e4e8;
           border-radius: 6px;
           text-align: -webkit-match-parent;
-          flex-direction: column;"
+          flex-direction: column;
+          height: 192px;"
       xmlns="http://www.w3.org/1999/xhtml">
       <style>
         * {
