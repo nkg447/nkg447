@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nikunj.gupta447@gmail.com**
 
-- 📄 Know about my experiences [https://www.nkg447.github.io/assets/Nikunj's%20Resume.pdf](https://www.nkg447.github.io/assets/Nikunj's%20Resume.pdf)
+- 📄 Know about my experiences [here](https://nkg447.github.io/assets/Nikunj's%20Resume.pdf)
 
 - ⚡ Fun fact **Table Tennis pro 😎**
 
