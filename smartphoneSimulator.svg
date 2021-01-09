@@ -1,0 +1,38 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400"
+  xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          box-sizing: border-box;
+        }
+				.container {
+          padding: 16px !important;
+          margin: 16px !important;
+          display: flex !important;
+          background-color: #fff;
+          border: 1px solid #e1e4e8;
+          border-radius: 6px;
+          text-align: -webkit-match-parent;
+          flex-direction: column;
+        }
+        .card-title {
+          color: #2f80ed;
+          font-weight: bold;
+          cursor: pointer;
+        }
+      </style>
+      <div class="container">
+        <div class="card-title">
+          <a href="https://github.com/nkg447/smartphone-simulator">Smartphone Orientation Simulator</a>
+        </div>
+        <div class="card-body">
+          <p>Simulate your smartphone's orientation. Works with Android, might
+          require extra permissions on iOS.</p>
+          <br/>
+          <a href="https://smartphone-simulator.herokuapp.com/simulator/">https://smartphone-simulator.herokuapp.com/simulator</a>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
