@@ -1,0 +1,38 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400"
+  xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          box-sizing: border-box;
+          background-color: transparent;
+        }
+				.container {
+          padding: 16px !important;
+          margin: 16px !important;
+          display: flex !important;
+          background-color: #fff;
+          border: 1px solid #e1e4e8;
+          border-radius: 6px;
+          text-align: -webkit-match-parent;
+          flex-direction: column;
+        }
+        .card-title {
+          color: #2f80ed;
+          font-weight: bold;
+          cursor: pointer;
+        }
+      </style>
+      <div class="container">
+        <div class="card-title">
+          <a href="https://github.com/nkg447/chokdi">Chokdi</a>
+        </div>
+        <div class="card-body">
+          <p>An Indian card game. Played between 4 players. Somewhat like Bridge card game</p>
+          <br/>
+          <a href="https://chokdi.herokuapp.com/">https://chokdi.herokuapp.com/</a>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
